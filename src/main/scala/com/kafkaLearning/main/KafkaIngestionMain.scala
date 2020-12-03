@@ -1,13 +1,7 @@
 package com.kafkaLearning.main
 
 import com.kafkaLearning.kafka.KafkaOffSetManagement.{readOffsets, saveOffsets}
-import .loadToBlastStreamTables
-import .loadToAccessorryStreamTables
-import .loadToProductsStreamTables
-import .loadToThresholdStreamTables
-import .loadToholemeasurementsStreamTables
-//import com.orica.rti.stream.HoleMeasurmentsStream_test.loadToholemeasurementsStreamTables
-import .loadToHolesStreamTables
+
 import org.apache.commons.lang.exception.ExceptionUtils
 import org.apache.hadoop.fs.{FSDataInputStream, FileSystem, Path}
 import org.apache.kafka.common.serialization.StringDeserializer
