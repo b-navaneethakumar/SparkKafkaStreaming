@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="sbt: mrpowers:spark-daria:2.2.0_0.12.0:jar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/mrpowers/spark-daria/jars/spark-daria-2.2.0_0.12.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
